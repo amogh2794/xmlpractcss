@@ -1,0 +1,27 @@
+employee{
+    display:table;
+    border:solid 1px;
+    margin:10em 3em 10px 23em;
+
+}
+details{
+    display:table-row;
+    border:solid 1px;
+    
+}
+id,name,salary,designation,hiredate,dob{
+    display: table-cell;
+    border:solid 1px;
+    
+    
+}
+heading{
+    display:table-row;
+    color:white;
+    background-color: navy;
+     
+}
+h1,h2,h3,h4,h5,h6{
+    display:table-cell;
+    border:solid 1px;
+}

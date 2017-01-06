@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <employee>
+        <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>      
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+        <address>andheri</address>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+    <details>
+        <id>E1</id>
+        <name>
+            <fname>Amogh</fname>
+            <lname>Vaidya</lname>
+        </name>
+        <designation>CEO</designation>
+        <salary>500000</salary>
+        <dob>27/10/1994</dob>
+        <hiredate>8/1/2016</hiredate>
+    </details>
+</emolpyee>
+</root>
