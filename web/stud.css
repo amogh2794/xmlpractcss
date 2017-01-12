@@ -1,22 +1,23 @@
-employee{
+student{
     display:table;
+    
     margin:10em 3em 10px 23em;
+   padding:20px;
 
 }
 details{
-    display:table-row;
-    border:solid 1px;
-    
-    
+    display:table-row;  
+    border:solid 1px;  
+    padding:20px;
 }
-id,name,salary,designation,hiredate,dob{
+id,name,course,sem,dob,marks{
     display: table-cell;
     border:solid 1px;
-    
-    
+    padding:20px;   
 }
 heading{
     display:table-row;
+   padding:20px;
     color:white;
     background-color: navy;
      
@@ -24,4 +25,5 @@ heading{
 h1,h2,h3,h4,h5,h6{
     display:table-cell;
     border:solid 1px;
+    padding:20px;
 }

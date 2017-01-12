@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="lib.css"?>
+<library>
+        <heading>
+            <h1>Bid</h1>
+            <h2>BookName</h2>
+            <h3>Author</h3>
+            <h4>Price</h4>
+            <h5>Publisher</h5>
+            <h6>Shelf No.</h6>
+        </heading>
+        <details>
+        <id>B1</id>
+        <name>Game of thrones</name>
+        <author>Amogh</author>
+        <price>500</price>
+        <publisher>Vipul Publication</publisher>
+        <shelf>60</shelf>
+    </details>
+    <details>
+        <id>B2</id>
+        <name>Dongri to dubai</name>
+        <author>Muzzamil</author>
+        <price>300</price>
+        <publisher>TechMax Publication</publisher>
+        <shelf>50</shelf>
+    </details>
+    <details>
+        <id>B3</id>
+        <name>Black Beauty</name>
+        <author>Pankti</author>
+        <price>200</price>
+        <publisher>TechMax Publication</publisher>
+        <shelf>40</shelf>
+    </details>
+</library>
+
+
+
